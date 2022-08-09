@@ -1,0 +1,22 @@
+jquery:
+    npm install jquery --save
+    import $ from 'jquery';
+
+MUI:
+    npm install @mui/material @emotion/react @emotion/styled
+    npm install @mui/icons-material
+
+fonts.css:
+    @font-face {
+        font-family: "font";
+        src: url("../fonts/font.woff2") format("woff2"),
+            url("../fonts/font.woff") format("woff");
+        font-weight: bold;
+        font-display: swap;
+    }
+    * {
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        font-family: "font";
+        font-weight: 400;
+    }

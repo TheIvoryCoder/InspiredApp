@@ -1,0 +1,34 @@
+----------------------------------------------------------------
+INSPIRED - V1.0 - 09/08/2022 - (C) Charlie Cureton
+----------------------------------------------------------------
+
+    Name: Inspired
+    Target Audience: Entrepreneurs, Artists, Developers
+    Concept: Find community created content to keep you inspired.
+    App Users: 
+        - Guest: view content & ads, create account, login
+        - Account User: view & interact with content, view ads, create up to 3 pages, logout
+        - Premium Account User: view & interact with content, don't view ads, create up to 10 pages,
+        - Content Creator: view & interact with content, view ads, upload content, work with content analytics, edit content settings
+        - Advertisers: upload advertisement content, work with content analytics
+        - Moderator: view & interact with content, ban users from page, remove comments, pin comments
+        - Banned / Suspended User: appeal
+    App Pages:
+        - Landing: App Logo, Description of site, login, create account
+        - Login: Account form, reCAPTCHA, 2FA (if setting enabled), forgot password, create account instead
+        - Create Account: New account form, reCAPTCHA, login instead, email/phone verification
+        - Profile: View pages, post, edit profile, view inspired count, settings & preferences, analytics, view username, description and avatar
+        - Edit Profile: Change username, email/phone, description, and avatar
+        - Home: view post, interact with post, go to creators page, go to next post, go to menu, go to settings, view advertisement, go to external links
+        - Edit Page: change page topic, delete posts, create post, change page banner, change description and title
+        - New Page: enter page topic, upload page banner, enter page description and title
+        - Settings:
+            - Manage account: change name, change password, disable account, delete account
+            - Privacy: public, friends only, private
+            - Feedback: contact the App
+            - Help: get customer support help
+            - Community Guidlines: read community guidlines
+            - Terms of service: read terms of service
+            - Privacy Policy: react privacy policy
+            - Copyright Policy: read copyright policy
+            - Logout
